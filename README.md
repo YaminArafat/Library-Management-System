@@ -1,2 +1,2 @@
-# SystemProject1
-DemoBlockchain
+# Library Management System
+C++, OOP
